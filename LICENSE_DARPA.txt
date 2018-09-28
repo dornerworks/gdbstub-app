@@ -1,0 +1,8 @@
+This repository is additionally covered by the following licensing statements.
+
+-----------------------------------------------------------------------
+
+This data was produced by DornerWorks, Ltd. of Grand Rapids, MI, USA under
+a DARPA SBIR, Contract Number D15PC00163.
+
+Approved for Public Release, Distribution Unlimited.
